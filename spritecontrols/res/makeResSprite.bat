@@ -1,0 +1,1 @@
+echo SPRITE heroi "gfx/heroi.png" 4 4 NONE> resources.res

@@ -1,0 +1,1 @@
+echo IMAGE fundo "gfx/fundo.png" NONE> res\resources.res
